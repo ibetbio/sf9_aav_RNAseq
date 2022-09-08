@@ -1,0 +1,313 @@
+feature	class	assembly	assembly_unit	seq_type	chromosome	genomic_accession	start	end	strand	product_accession	non-redundant_refseq	related_accession	name	symbol	GeneID	locus_tag	feature_interval_length	product_length	attributes
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	503	1009	+					Ac-ptp	1403833	ACNVgp001	507		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	503	1009	+	NP_054030.1			protein tyrosine phosphatase	Ac-ptp	1403833	ACNVgp001	507	168	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	1041	2027	-					Ac-bro	1403834	ACNVgp002	987		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	1041	2027	-	NP_054031.1			baculovirus repeated ORF	Ac-bro	1403834	ACNVgp002	987	328	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	2084	2245	-					Ac-ctx	1403835	ACNVgp003	162		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	2084	2245	-	NP_054032.1			conotoxin-like peptide	Ac-ctx	1403835	ACNVgp003	162	53	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	2295	2750	-					AcOrf-4	1403836	ACNVgp004	456		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	2295	2750	-	NP_054033.1			AcOrf-4 peptide	AcOrf-4	1403836	ACNVgp004	456	151	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	2779	3108	+					AcOrf-5	1403837	ACNVgp005	330		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	2779	3108	+	NP_054034.1			AcOrf-5 peptide	AcOrf-5	1403837	ACNVgp005	330	109	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	3089	3721	+					Ac-lef2	1403838	ACNVgp006	633		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	3089	3721	+	NP_054035.1			late expression factor 2	Ac-lef2	1403838	ACNVgp006	633	210	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	3759	4364	-					Ac-ORF603	1403839	ACNVgp007	606		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	3759	4364	-	NP_054036.1			hypothetical protein	Ac-ORF603	1403839	ACNVgp007	606	201	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	4520	5257	+					Ac-PH	1403840	ACNVgp008	738		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	4520	5257	+	NP_054037.1			major occlusion body protein	Ac-PH	1403840	ACNVgp008	738	245	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	5287	6918	-					Ac-ORF1629	1403841	ACNVgp009	1632		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	5287	6918	-	NP_054038.1			viral capsid associated protein	Ac-ORF1629	1403841	ACNVgp009	1632	543	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	6917	7735	+					Ac-pk-1	1403842	ACNVgp010	819		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	6917	7735	+	NP_054039.1			protein kinase	Ac-pk-1	1403842	ACNVgp010	819	272	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	7899	8921	-					AcOrf-11	1403843	ACNVgp011	1023		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	7899	8921	-	NP_054040.1			AcOrf-11 peptide	AcOrf-11	1403843	ACNVgp011	1023	340	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	8958	9611	+					AcOrf-12	1403844	ACNVgp012	654		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	8958	9611	+	NP_054041.1			AcOrf-12 peptide	AcOrf-12	1403844	ACNVgp012	654	217	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	9638	10621	-					AcOrf-13	1403845	ACNVgp013	984		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	9638	10621	-	NP_054042.1			AcOrf-13 peptide	AcOrf-13	1403845	ACNVgp013	984	327	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	10513	11313	-					Ac-lef1	1403846	ACNVgp014	801		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	10513	11313	-	NP_054043.1			late expression factor 1	Ac-lef1	1403846	ACNVgp014	801	266	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	11426	12946	+					Ac-egt	1403847	ACNVgp015	1521		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	11426	12946	+	NP_054044.1			ecdysteroid UDP-glucosyl transferase	Ac-egt	1403847	ACNVgp015	1521	506	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	13092	13769	+					AcOrf-16	1403848	ACNVgp016	678		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	13092	13769	+	NP_054045.1			AcOrf-16 peptide	AcOrf-16	1403848	ACNVgp016	678	225	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	13738	14232	+					AcOrf-17	1403849	ACNVgp017	495		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	13738	14232	+	NP_054046.1			AcOrf-17 peptide	AcOrf-17	1403849	ACNVgp017	495	164	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	14398	15459	-					AcOrf-18	1403850	ACNVgp018	1062		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	14398	15459	-	NP_054047.1			AcOrf-18 peptide	AcOrf-18	1403850	ACNVgp018	1062	353	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	15461	15787	+					AcOrf-19	1403851	ACNVgp019	327		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	15461	15787	+	NP_054048.1			AcOrf-19 peptide	AcOrf-19	1403851	ACNVgp019	327	108	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	16013	16222	-					AcOrf-20	1403852	ACNVgp020	210		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	16013	16222	-	NP_054049.1			actin rearrangement inducing factor	AcOrf-20	1403852	ACNVgp020	210	69	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	16305	17264	-					AcOrf-21	1403853	ACNVgp021	960		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	16305	17264	-	NP_054050.1			actin rearrangement inducing factor	AcOrf-21	1403853	ACNVgp021	960	319	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	17301	18449	+					AcOrf-22	1403854	ACNVgp022	1149		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	17301	18449	+	NP_054051.1			AcOrf-22 peptide	AcOrf-22	1403854	ACNVgp022	1149	382	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	18513	20585	+					Ac-env-prot	1403855	ACNVgp023	2073		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	18513	20585	+	NP_054052.1			copia-like envelope protein	Ac-env-prot	1403855	ACNVgp023	2073	690	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	20634	21143	-					Ac-pkip	1403856	ACNVgp024	510		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	20634	21143	-	NP_054053.1			protein kinase interacting protein	Ac-pkip	1403856	ACNVgp024	510	169	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	21183	22133	-					AcOrf-25	1403857	ACNVgp025	951		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	21183	22133	-	NP_054054.1			ssDNA binding protein	AcOrf-25	1403857	ACNVgp025	951	316	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	22209	22598	+					AcOrf-26	1403858	ACNVgp026	390		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	22209	22598	+	NP_054055.1			AcOrf-26 peptide	AcOrf-26	1403858	ACNVgp026	390	129	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	22600	23460	+					Ac-IAP1	1403859	ACNVgp027	861		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	22600	23460	+	NP_054056.1			apoptosis inhibitor	Ac-IAP1	1403859	ACNVgp027	861	286	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	23465	23986	+					Ac-lef6	1403860	ACNVgp028	522		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	23465	23986	+	NP_054057.1			late expression factor 6	Ac-lef6	1403860	ACNVgp028	522	173	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	24046	24261	-					AcOrf-29	1403861	ACNVgp029	216		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	24046	24261	-	NP_054058.1			AcOrf-29 peptide	AcOrf-29	1403861	ACNVgp029	216	71	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	24315	25706	-					AcOrf-30	1403862	ACNVgp030	1392		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	24315	25706	-	NP_054059.1			AcOrf-30 peptide	AcOrf-30	1403862	ACNVgp030	1392	463	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	25820	26275	+					Ac-sod	1403863	ACNVgp031	456		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	25820	26275	+	NP_054060.1			superoxide dismutase	Ac-sod	1403863	ACNVgp031	456	151	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	27041	27586	-					Ac-fgf	1403864	ACNVgp032	546		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	27041	27586	-	NP_054061.1			fibroblast growth factor	Ac-fgf	1403864	ACNVgp032	546	181	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	27733	28281	-					Ac-HisP	1403865	ACNVgp033	549		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	27733	28281	-	NP_054062.1			putative histidinol-phosphatase	Ac-HisP	1403865	ACNVgp033	549	182	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	28294	28941	-					AcOrf-34	1403866	ACNVgp034	648		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	28294	28941	-	NP_054063.1			AcOrf-34 peptide	AcOrf-34	1403866	ACNVgp034	648	215	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	28962	29195	+					Ac-v-ubi	1403867	ACNVgp035	234		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	28962	29195	+	NP_054064.1			viral ubiquitin	Ac-v-ubi	1403867	ACNVgp035	234	77	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	29242	30069	-					Ac-39K/pp31	1403868	ACNVgp036	828		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	29242	30069	-	NP_054065.1			nuclear matrix associated phosphoprotein	Ac-39K/pp31	1403868	ACNVgp036	828	275	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	30063	30401	-					Ac-lef11	1403869	ACNVgp037	339		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	30063	30401	-	NP_054066.1			late expression factor 11	Ac-lef11	1403869	ACNVgp037	339	112	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	30364	31014	-					AcOrf-38	1403870	ACNVgp038	651		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	30364	31014	-	NP_054067.1			AcOrf-38 peptide	AcOrf-38	1403870	ACNVgp038	651	216	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	31078	32169	-					Ac-p43	1403871	ACNVgp039	1092		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	31078	32169	-	NP_054068.1			hypothetical protein	Ac-p43	1403871	ACNVgp039	1092	363	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	32177	33382	-					Ac-p47	1403872	ACNVgp040	1206		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	32177	33382	-	NP_054069.1			transcription regulator	Ac-p47	1403872	ACNVgp040	1206	401	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	33381	33926	+					AcOrf-41	1403873	ACNVgp041	546		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	33381	33926	+	NP_054070.1			AcOrf-41 peptide	AcOrf-41	1403873	ACNVgp041	546	181	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	34010	35530	+					Ac-GTA	1403874	ACNVgp042	1521		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	34010	35530	+	NP_054071.1			global transactivator-like protein	Ac-GTA	1403874	ACNVgp042	1521	506	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	35544	35777	+					AcOrf-43	1403875	ACNVgp043	234		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	35544	35777	+	NP_054072.1			AcOrf-43 peptide	AcOrf-43	1403875	ACNVgp043	234	77	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	35758	36153	+					AcOrf-44	1403876	ACNVgp044	396		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	35758	36153	+	NP_054073.1			AcOrf-44 peptide	AcOrf-44	1403876	ACNVgp044	396	131	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	36155	36733	+					AcOrf-45	1403877	ACNVgp045	579		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	36155	36733	+	NP_054074.1			AcOrf-45 peptide	AcOrf-45	1403877	ACNVgp045	579	192	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	36718	38832	+					Ac-odv-e66	1403878	ACNVgp046	2115		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	36718	38832	+	NP_054075.1			occlusion-derived virus envelope protein	Ac-odv-e66	1403878	ACNVgp046	2115	704	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	38938	39204	-					AcOrf-47	1403879	ACNVgp047	267		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	38938	39204	-	NP_054076.1			AcOrf-47 peptide	AcOrf-47	1403879	ACNVgp047	267	88	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	39278	39619	-					AcOrf-48	1403880	ACNVgp048	342		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	39278	39619	-	NP_054077.1			AcOrf-48 peptide	AcOrf-48	1403880	ACNVgp048	342	113	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	39643	40413	-					Ac-pcna	1403881	ACNVgp049	771		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	39643	40413	-	NP_054078.1			proliferating cell nuclear antigen	Ac-pcna	1403881	ACNVgp049	771	256	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	40523	43153	-					Ac-lef8	1403882	ACNVgp050	2631		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	40523	43153	-	NP_054079.1			late expression factor 8	Ac-lef8	1403882	ACNVgp050	2631	876	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	43180	44136	+					AcOrf-51	1403883	ACNVgp051	957		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	43180	44136	+	NP_054080.1			AcOrf-51 peptide	AcOrf-51	1403883	ACNVgp051	957	318	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	44339	44710	-					AcOrf-52	1403884	ACNVgp052	372		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	44339	44710	-	NP_054081.1			AcOrf-52 peptide	AcOrf-52	1403884	ACNVgp052	372	123	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	44712	45131	+					AcOrf-53	1403885	ACNVgp053	420		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	44712	45131	+	NP_054082.1			AcOrf-53 peptide	AcOrf-53	1403885	ACNVgp053	420	139	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	45128	45364	+					Ac-lef10	1403886	ACNVgp054	237		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	45128	45364	+	NP_054083.1			late expression factor 10	Ac-lef10	1403886	ACNVgp054	237	78	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	45222	46319	+					AcOrf-54	1403887	ACNVgp055	1098		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	45222	46319	+	NP_054084.1			viral capsid associated protein	AcOrf-54	1403887	ACNVgp055	1098	365	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	46411	46632	+					AcOrf-55	1403888	ACNVgp056	222		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	46411	46632	+	NP_054085.1			AcOrf-55 peptide	AcOrf-55	1403888	ACNVgp056	222	73	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	46634	46888	+					AcOrf-56	1403889	ACNVgp057	255		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	46634	46888	+	NP_054086.1			AcOrf-56 peptide	AcOrf-56	1403889	ACNVgp057	255	84	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	47073	47558	+					AcOrf-57	1403890	ACNVgp058	486		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	47073	47558	+	NP_054087.1			AcOrf-57 peptide	AcOrf-57	1403890	ACNVgp058	486	161	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	47574	47747	-					AcOrf-58	1403891	ACNVgp059	174		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	47574	47747	-	NP_054088.1			AcOrf-58 peptide	AcOrf-58	1403891	ACNVgp059	174	57	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	47882	48091	-					AcOrf-59	1403892	ACNVgp060	210		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	47882	48091	-	NP_054089.1			AcOrf-59 peptide	AcOrf-59	1403892	ACNVgp060	210	69	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	48103	48366	-					AcOrf-60	1403893	ACNVgp061	264		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	48103	48366	-	NP_054090.1			AcOrf-60 peptide	AcOrf-60	1403893	ACNVgp061	264	87	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	48513	49157	-					Ac-FP	1403894	ACNVgp062	645		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	48513	49157	-	NP_054091.1			FP protein	Ac-FP	1403894	ACNVgp062	645	214	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	49184	50734	+					Ac-lef9	1403895	ACNVgp063	1551		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	49184	50734	+	NP_054092.1			late expression factor 9	Ac-lef9	1403895	ACNVgp063	1551	516	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	50795	51262	+					AcOrf-63	1403896	ACNVgp064	468		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	50795	51262	+	NP_054093.1			AcOrf-63 peptide	AcOrf-63	1403896	ACNVgp064	468	155	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	51283	52191	-					Ac-gp37	1403897	ACNVgp065	909		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	51283	52191	-	NP_054094.1			fusolin; spindle body protein	Ac-gp37	1403897	ACNVgp065	909	302	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	52329	55283	-					Ac-DNA-pol	1403898	ACNVgp066	2955		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	52329	55283	-	NP_054095.1			DNA-dependant DNA-polymerase	Ac-DNA-pol	1403898	ACNVgp066	2955	984	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	55292	57718	+					AcOrf-66	1403899	ACNVgp067	2427		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	55292	57718	+	NP_054096.1			AcOrf-66 peptide	AcOrf-66	1403899	ACNVgp067	2427	808	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	57721	58878	-					Ac-lef3	1403900	ACNVgp068	1158		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	57721	58878	-	NP_054097.1			late expression factor 3	Ac-lef3	1403900	ACNVgp068	1158	385	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	58720	59298	+					AcOrf-68	1403901	ACNVgp069	579		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	58720	59298	+	NP_054098.1			AcOrf-68 peptide	AcOrf-68	1403901	ACNVgp069	579	192	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	59276	60064	+					AcOrf-69	1403902	ACNVgp070	789		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	59276	60064	+	NP_054099.1			putative methyl transferase	AcOrf-69	1403902	ACNVgp070	789	262	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	60110	60982	+					AcOrf-70	1403903	ACNVgp071	873		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	60110	60982	+	NP_054100.1			AcOrf-70 peptide	AcOrf-70	1403903	ACNVgp071	873	290	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	61016	61765	+					Ac-IAP2	1403904	ACNVgp072	750		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	61016	61765	+	NP_054101.1			apoptosis inhibitor	Ac-IAP2	1403904	ACNVgp072	750	249	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	61824	62006	+					AcOrf-72	1403905	ACNVgp073	183		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	61824	62006	+	NP_054102.1			AcOrf-72 peptide	AcOrf-72	1403905	ACNVgp073	183	60	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	62015	62314	-					AcOrf-73	1403906	ACNVgp074	300		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	62015	62314	-	NP_054103.1			AcOrf-73 peptide	AcOrf-73	1403906	ACNVgp074	300	99	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	62311	63108	-					AcOrf-74	1403907	ACNVgp075	798		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	62311	63108	-	NP_054104.1			AcOrf-74 peptide	AcOrf-74	1403907	ACNVgp075	798	265	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	63126	63527	-					AcOrf-75	1403908	ACNVgp076	402		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	63126	63527	-	NP_054105.1			AcOrf-75 peptide	AcOrf-75	1403908	ACNVgp076	402	133	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	63543	63797	-					AcOrf-76	1403909	ACNVgp077	255		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	63543	63797	-	NP_054106.1			AcOrf-76 peptide	AcOrf-76	1403909	ACNVgp077	255	84	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	63813	64952	-					Ac-vlf-1	1403910	ACNVgp078	1140		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	63813	64952	-	NP_054107.1			very late expression factor 1	Ac-vlf-1	1403910	ACNVgp078	1140	379	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	64958	65287	-					AcOrf-78	1403911	ACNVgp079	330		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	64958	65287	-	NP_054108.1			AcOrf-78 peptide	AcOrf-78	1403911	ACNVgp079	330	109	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	65290	65604	-					AcOrf-79	1403912	ACNVgp080	315		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	65290	65604	-	NP_054109.1			AcOrf-79 peptide	AcOrf-79	1403912	ACNVgp080	315	104	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	65607	66836	-					Ac-gp41	1403913	ACNVgp081	1230		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	65607	66836	-	NP_054110.1			occlusion-derived virus glycoprotein	Ac-gp41	1403913	ACNVgp081	1230	409	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	66826	67527	-					AcOrf-81	1403914	ACNVgp082	702		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	66826	67527	-	NP_054111.1			AcOrf-81 peptide	AcOrf-81	1403914	ACNVgp082	702	233	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	67376	67918	-					Ac-TLP	1403915	ACNVgp083	543		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	67376	67918	-	NP_054112.1			telokin-like protein-20	Ac-TLP	1403915	ACNVgp083	543	180	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	67884	70427	+					Ac-p95	1403916	ACNVgp084	2544		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	67884	70427	+	NP_054113.1			viral capsid associated protein	Ac-p95	1403916	ACNVgp084	2544	847	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	71165	71731	+					AcOrf-84	1403917	ACNVgp085	567		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	71165	71731	+	NP_054114.1			AcOrf-84 peptide	AcOrf-84	1403917	ACNVgp085	567	188	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	71934	72095	+					AcOrf-85	1403918	ACNVgp086	162		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	71934	72095	+	NP_054115.1			AcOrf-85 peptide	AcOrf-85	1403918	ACNVgp086	162	53	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	72131	74215	-					Ac-PNK/PNL	1403919	ACNVgp087	2085		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	72131	74215	-	NP_054116.1			polynucleotide kinase/ligase	Ac-PNK/PNL	1403919	ACNVgp087	2085	694	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	74356	74736	+					Ac-p15	1403920	ACNVgp088	381		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	74356	74736	+	NP_054117.1			p15	Ac-p15	1403920	ACNVgp088	381	126	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	74737	75531	-					Ac-cg30	1403921	ACNVgp089	795		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	74737	75531	-	NP_054118.1			hypothetical protein	Ac-cg30	1403921	ACNVgp089	795	264	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	75534	76577	-					Ac-vp39	1403922	ACNVgp090	1044		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	75534	76577	-	NP_054119.1			major viral capsid protein	Ac-vp39	1403922	ACNVgp090	1044	347	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	76596	77990	+					Ac-lef4	1403923	ACNVgp091	1395		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	76596	77990	+	NP_054120.1			late expression factor 4	Ac-lef4	1403923	ACNVgp091	1395	464	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	77987	78661	-					AcOrf-91	1403924	ACNVgp092	675		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	77987	78661	-	NP_054121.1			AcOrf-91 peptide	AcOrf-91	1403924	ACNVgp092	675	224	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	78699	79478	-					AcOrf-92	1403925	ACNVgp093	780		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	78699	79478	-	NP_054122.1			AcOrf-92 peptide	AcOrf-92	1403925	ACNVgp093	780	259	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	79477	79962	+					AcOrf-93	1403926	ACNVgp094	486		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	79477	79962	+	NP_054123.1			AcOrf-93 peptide	AcOrf-93	1403926	ACNVgp094	486	161	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	79971	80657	+					Ac-odv-e25	1403927	ACNVgp095	687		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	79971	80657	+	NP_054124.1			occlusion-derived virus envelope protein	Ac-odv-e25	1403927	ACNVgp095	687	228	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	80694	84359	-					Ac-helicase	1403928	ACNVgp096	3666		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	80694	84359	-	NP_054125.1			helicase	Ac-helicase	1403928	ACNVgp096	3666	1221	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	84346	84867	+					AcOrf-96	1403929	ACNVgp097	522		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	84346	84867	+	NP_054126.1			AcOrf-96 peptide	AcOrf-96	1403929	ACNVgp097	522	173	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	84839	85009	+					AcOrf-97	1403930	ACNVgp098	171		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	84839	85009	+	NP_054127.1			AcOrf-97 peptide	AcOrf-97	1403930	ACNVgp098	171	56	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	85021	85983	-					Ac-38K	1403931	ACNVgp099	963		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	85021	85983	-	NP_054128.1			hypothetical protein	Ac-38K	1403931	ACNVgp099	963	320	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	85918	86715	+					Ac-lef5	1403932	ACNVgp100	798		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	85918	86715	+	NP_054129.1			late expression factor 5	Ac-lef5	1403932	ACNVgp100	798	265	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	86712	86879	-					Ac-p6.9	1403933	ACNVgp101	168		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	86712	86879	-	NP_054130.1			basic protein	Ac-p6.9	1403933	ACNVgp101	168	55	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	86921	88006	-					Ac-p40	1403934	ACNVgp102	1086		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	86921	88006	-	NP_054131.1			hypothetical protein	Ac-p40	1403934	ACNVgp102	1086	361	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	88026	88394	-					AcOrf-102	1403935	ACNVgp103	369		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	88026	88394	-	NP_054132.1			AcOrf-102	AcOrf-102	1403935	ACNVgp103	369	122	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	88375	89538	-					Ac-p48	1403936	ACNVgp104	1164		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	88375	89538	-	NP_054133.1			hypothetical protein	Ac-p48	1403936	ACNVgp104	1164	387	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	89564	91639	+					Ac-vp80	1403937	ACNVgp105	2076		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	89564	91639	+	NP_054134.1			viral capsid associated protein	Ac-vp80	1403937	ACNVgp105	2076	691	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	91667	93328	-					Ac-HE65	1403938	ACNVgp106	1662		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	91667	93328	-	NP_054135.1			hypothetical protein	Ac-HE65	1403938	ACNVgp106	1662	553	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	93873	94058	+					AcOrf-106	1403939	ACNVgp107	186		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	93873	94058	+	NP_054136.1			AcOrf-106 peptide	AcOrf-106	1403939	ACNVgp107	186	61	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	94059	94391	+					AcOrf-107	1403940	ACNVgp108	333		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	94059	94391	+	NP_054137.1			AcOrf-107 peptide	AcOrf-107	1403940	ACNVgp108	333	110	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	94392	94709	-					AcOrf-108	1403941	ACNVgp109	318		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	94392	94709	-	NP_054138.1			AcOrf-108 peptide	AcOrf-108	1403941	ACNVgp109	318	105	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	94721	95893	-					AcOrf-109	1403942	ACNVgp110	1173		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	94721	95893	-	NP_054139.1			AcOrf-109 peptide	AcOrf-109	1403942	ACNVgp110	1173	390	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	95929	96099	-					AcOrf-110	1403943	ACNVgp111	171		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	95929	96099	-	NP_054140.1			AcOrf-110 peptide	AcOrf-110	1403943	ACNVgp111	171	56	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	96148	96351	-					AcOrf-111	1403944	ACNVgp112	204		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	96148	96351	-	NP_054141.1			AcOrf-111 peptide	AcOrf-111	1403944	ACNVgp112	204	67	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	96521	96784	+					AcOrf-112	1403945	ACNVgp113	264		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	96521	96784	+	NP_054142.1			AcOrf-112 peptide	AcOrf-112	1403945	ACNVgp113	264	87	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	96789	97298	+					AcOrf-113	1403946	ACNVgp114	510		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	96789	97298	+	NP_054143.1			AcOrf-113 peptide	AcOrf-113	1403946	ACNVgp114	510	169	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	97886	99160	-					AcOrf-114	1403947	ACNVgp115	1275		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	97886	99160	-	NP_054144.1			AcOrf-114 peptide	AcOrf-114	1403947	ACNVgp115	1275	424	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	99182	99796	-					AcOrf-115	1403948	ACNVgp116	615		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	99182	99796	-	NP_054145.1			AcOrf-115 peptide	AcOrf-115	1403948	ACNVgp116	615	204	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	99804	99974	-					AcOrf-116	1403949	ACNVgp117	171		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	99804	99974	-	NP_054146.1			AcOrf-116 peptide	AcOrf-116	1403949	ACNVgp117	171	56	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	99910	100197	+					AcOrf-117	1403950	ACNVgp118	288		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	99910	100197	+	NP_054147.1			AcOrf-117 peptide	AcOrf-117	1403950	ACNVgp118	288	95	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	100231	100704	-					AcOrf-118	1403951	ACNVgp119	474		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	100231	100704	-	NP_054148.1			AcOrf-118 peptide	AcOrf-118	1403951	ACNVgp119	474	157	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	100699	102291	+					AcOrf-119	1403952	ACNVgp120	1593		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	100699	102291	+	NP_054149.1			AcOrf-119 peptide	AcOrf-119	1403952	ACNVgp120	1593	530	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	102296	102544	+					AcOrf-120	1403953	ACNVgp121	249		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	102296	102544	+	NP_054150.1			AcOrf-120 peptide	AcOrf-120	1403953	ACNVgp121	249	82	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	102647	102823	+					AcOrf-121	1403954	ACNVgp122	177		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	102647	102823	+	NP_054151.1			AcOrf-121 peptide	AcOrf-121	1403954	ACNVgp122	177	58	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	102713	102901	-					AcOrf-122	1403955	ACNVgp123	189		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	102713	102901	-	NP_054152.1			AcOrf-122 peptide	AcOrf-122	1403955	ACNVgp123	189	62	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	102964	103611	-					Ac-pk-2	1403956	ACNVgp124	648		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	102964	103611	-	NP_054153.1			protein kinase	Ac-pk-2	1403956	ACNVgp124	648	215	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	103793	104536	+					AcOrf-124	1403957	ACNVgp125	744		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	103793	104536	+	NP_054154.1			AcOrf-124 peptide	AcOrf-124	1403957	ACNVgp125	744	247	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	104553	105233	-					Ac-lef7	1403958	ACNVgp126	681		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	104553	105233	-	NP_054155.1			late expression factor 7	Ac-lef7	1403958	ACNVgp126	681	226	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	105282	106937	-					Ac-chitinase	1403959	ACNVgp127	1656		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	105282	106937	-	NP_054156.1			chitinase	Ac-chitinase	1403959	ACNVgp127	1656	551	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	106983	107954	+					Ac-v-cath	1403960	ACNVgp128	972		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	106983	107954	+	NP_054157.1			viral cathepsin-like protein	Ac-v-cath	1403960	ACNVgp128	972	323	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	108179	109717	-					Ac-gp64	1403961	ACNVgp129	1539		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	108179	109717	-	NP_054158.1			major budded virus envelope glycoprotein	Ac-gp64	1403961	ACNVgp129	1539	512	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	109900	110496	+					Ac-p24	1403962	ACNVgp130	597		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	109900	110496	+	NP_054159.1			viral capsid protein	Ac-p24	1403962	ACNVgp130	597	198	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	110524	110844	+					Ac-gp16	1403963	ACNVgp131	321		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	110524	110844	+	NP_054160.1			hypothetical protein	Ac-gp16	1403963	ACNVgp131	321	106	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	110903	111661	+					Ac-PE/pp34	1403964	ACNVgp132	759		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	110903	111661	+	NP_054161.1			major polyhedral calyx protein	Ac-PE/pp34	1403964	ACNVgp132	759	252	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	111873	112532	+					AcOrf-132	1403965	ACNVgp133	660		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	111873	112532	+	NP_054162.1			AcOrf-132 peptide	AcOrf-132	1403965	ACNVgp133	660	219	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	112560	113819	+					Ac-alk-exo	1403966	ACNVgp134	1260		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	112560	113819	+	NP_054163.1			alkaline exonuclease	Ac-alk-exo	1403966	ACNVgp134	1260	419	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	113870	116281	-					Ac-94K	1403967	ACNVgp135	2412		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	113870	116281	-	NP_054164.1			hypothetical protein	Ac-94K	1403967	ACNVgp135	2412	803	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	116492	117391	+					Ac-35K/p35	1403968	ACNVgp136	900		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	116492	117391	+	NP_054165.1			annihilator	Ac-35K/p35	1403968	ACNVgp136	900	299	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	118044	118766	+					Ac-p26	1403969	ACNVgp137	723		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	118044	118766	+	NP_054166.1			hypothetical protein	Ac-p26	1403969	ACNVgp137	723	240	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	118839	119123	+					Ac-p10	1403970	ACNVgp138	285		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	118839	119123	+	NP_054167.1			fibrous body protein	Ac-p10	1403970	ACNVgp138	285	94	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	119135	121072	-					Ac-p74	1403971	ACNVgp139	1938		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	119135	121072	-	NP_054168.1			occlusion-derived virus envelope protein	Ac-p74	1403971	ACNVgp139	1938	645	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	121205	122554	-					Ac-ME53	1403972	ACNVgp140	1350		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	121205	122554	-	NP_054169.1			DNA synthesis regulator	Ac-ME53	1403972	ACNVgp140	1350	449	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	122625	122807	+					AcOrf-140	1403973	ACNVgp141	183		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	122625	122807	+	NP_054170.1			AcOrf-140 peptide	AcOrf-140	1403973	ACNVgp141	183	60	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	122832	128946	+					Ac-IE-01	1403988	ACNVgp142	6115		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	122832	128946	+	NP_054171.1			putative early gene transactivator	Ac-IE-01	1403988	ACNVgp142	1911	636	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	122832	123617	+					Ac-IE-0	1403974	ACNVgp143	786		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	122832	123617	+	NP_054172.1			hypothetical protein	Ac-IE-0	1403974	ACNVgp143	786	261	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	123632	125065	+					Ac-49K	1403975	ACNVgp144	1434		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	123632	125065	+	NP_054173.1			early 49 Daa protein	Ac-49K	1403975	ACNVgp144	1434	477	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	125153	125341	+					Ac-odv-e18	1403976	ACNVgp145	189		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	125153	125341	+	NP_054174.1			occlusion-derived virus envelope protein	Ac-odv-e18	1403976	ACNVgp145	189	62	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	125357	126229	+					Ac-odv-ec27	1403977	ACNVgp146	873		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	125357	126229	+	NP_054175.1			occlusion-derived virus envelope/capsid protein	Ac-odv-ec27	1403977	ACNVgp146	873	290	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	126299	126532	+					AcOrf-145	1403978	ACNVgp147	234		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	126299	126532	+	NP_054176.1			AcOrf-145 peptide	AcOrf-145	1403978	ACNVgp147	234	77	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	126527	127132	-					AcOrf-146	1403979	ACNVgp148	606		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	126527	127132	-	NP_054177.1			AcOrf-146 peptide	AcOrf-146	1403979	ACNVgp148	606	201	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	127198	128946	+					Ac-IE-1	1403980	ACNVgp149	1749		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	127198	128946	+	NP_054178.1			early gene transactivator	Ac-IE-1	1403980	ACNVgp149	1749	582	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	129008	130138	-					Ac-odv-e56	1403981	ACNVgp150	1131		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	129008	130138	-	NP_054179.1			occlusion-derived virus envelope protein	Ac-odv-e56	1403981	ACNVgp150	1131	376	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	130167	130490	-					AcOrf-149	1403982	ACNVgp151	324		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	130167	130490	-	NP_054180.1			AcOrf-149 peptide	AcOrf-149	1403982	ACNVgp151	324	107	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	130456	130755	+					AcOrf-150	1403983	ACNVgp152	300		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	130456	130755	+	NP_054181.1			AcOrf-150 peptide	AcOrf-150	1403983	ACNVgp152	300	99	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	130857	132083	-					Ac-IE-2	1403984	ACNVgp153	1227		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	130857	132083	-	NP_054182.1			early gene transactivator	Ac-IE-2	1403984	ACNVgp153	1227	408	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	132109	132387	-					AcOrf-152	1403985	ACNVgp154	279		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	132109	132387	-	NP_054183.1			AcOrf-152 peptide	AcOrf-152	1403985	ACNVgp154	279	92	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	132526	133491	+					Ac-PE38	1403986	ACNVgp155	966		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	132526	133491	+	NP_054184.1			hypothetical protein	Ac-PE38	1403986	ACNVgp155	966	321	
+gene	protein_coding	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	133591	133836	+					AcOrf-154	1403987	ACNVgp156	246		
+CDS	with_protein	GCF_000838485.1	Primary Assembly	segment		NC_001623.1	133591	133836	+	NP_054185.1			AcOrf-154 peptide	AcOrf-154	1403987	ACNVgp156	246	81	
